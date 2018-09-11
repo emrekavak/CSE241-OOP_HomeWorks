@@ -1,4 +1,4 @@
-/* Name = Emre KAVAK && Number = 151044085 && HW2 >> CONNECT FOUR W›TH SAVE OR LOAD GAME << */
+/* Name = Emre KAVAK && Number = 151044085 && HW2 >> CONNECT FOUR W√ùTH SAVE OR LOAD GAME << */
 
 #include<iostream>
 #include<cstdlib>
